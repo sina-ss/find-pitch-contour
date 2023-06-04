@@ -1,3 +1,4 @@
 librosa==0.8.1
 pyACA==0.2.1
 matplotlib==3.7.1
+numpy==1.20.3
